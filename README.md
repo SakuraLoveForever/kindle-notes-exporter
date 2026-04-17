@@ -1,5 +1,7 @@
 ## 网址：
 https://sakuraloveforever.netlify.app/
+## 备用网址：
+https://sakuraloveforever.github.io/kindle-notes-exporter/
 	
 ## 功能介绍：
 1. 支持点击或拖拽上传 My Clippings.txt
