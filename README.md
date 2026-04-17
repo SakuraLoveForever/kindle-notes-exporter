@@ -1,4 +1,5 @@
-网址https://sakuraloveforever.netlify.app/
+网址
+https://sakuraloveforever.netlify.app/
 	
 功能介绍：
 1. 支持点击或拖拽上传 My Clippings.txt
